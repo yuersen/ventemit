@@ -142,7 +142,7 @@ export default class VentEmit {
   }
 
   /**
-   * An alias function of removeListener
+   * An alias function of removeListener.
    *
    * @param {String} evt Name of the event
    * @param {Function} listener Listener Method to be called when the event is emitted.
@@ -163,7 +163,7 @@ export default class VentEmit {
   }
 
   /**
-   * An alias function of removeAllListeners
+   * An alias function of removeAllListeners.
    *
    * @param {String} evt Name of the event
    * @returns {VentEmit} Return instance object
@@ -196,7 +196,7 @@ export default class VentEmit {
   }
 
   /**
-   * An alias function of emit
+   * An alias function of emit.
    *
    * @param {String} evt Name of the event
    * @param {Array<any>} args Optional array of arguments
