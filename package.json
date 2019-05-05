@@ -21,18 +21,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pxy0809/ventemit.git"
+    "url": "git+https://github.com/panxiangyang/ventemit.git"
   },
   "keywords": [
     "EventEmit",
     "Browser"
   ],
-  "author": "pxy0809",
+  "author": "panxiangyang",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pxy0809/ventemit/issues"
+    "url": "https://github.com/panxiangyang/ventemit/issues"
   },
-  "homepage": "https://github.com/pxy0809/ventemit#readme",
+  "homepage": "https://github.com/panxiangyang/ventemit#readme",
   "devDependencies": {
     "@types/chai": "^4.1.7",
     "@types/jsdom": "^12.2.3",
